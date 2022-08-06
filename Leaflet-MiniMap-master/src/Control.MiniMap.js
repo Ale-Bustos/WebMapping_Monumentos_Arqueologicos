@@ -38,7 +38,7 @@
 			collapsedHeight: 19,
 			aimingRectOptions: {color: '#ff7800', weight: 1, interactive: false},
 			shadowRectOptions: {color: '#000000', weight: 1, interactive: false, opacity: 0, fillOpacity: 0},
-			strings: {hideText: 'Hide MiniMap', showText: 'Show MiniMap'},
+			strings: {hideText: 'Ocultar', showText: 'Mostrar'},
 			mapOptions: {}  // Allows definition / override of Leaflet map options.
 		},
 
